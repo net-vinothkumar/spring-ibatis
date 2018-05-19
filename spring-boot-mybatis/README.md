@@ -7,6 +7,8 @@ MyBatis is a persistence framework / ORM with support for custom SQL, stored pro
 MyBatis helps to map the domain objects to database table data.
 MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results.
 It provides simple XML or Annotation based configuration to map Java POJOs to database.
+iBATIS can be implemented for nearly any language or platform such as Java, Ruby, and C# for Microsoft .NET
+iBATIS is free and an open source software
 
 
 <img width="970" alt="screen shot 2018-05-19 at 21 15 20" src="https://user-images.githubusercontent.com/30971809/40272172-d8eb330a-5ba9-11e8-9a56-f0374d379088.png">
